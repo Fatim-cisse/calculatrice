@@ -1,0 +1,32 @@
+.{
+    padding:0;
+    marging:0;
+    box-sizing : border-box;
+}
+
+
+body{
+    max-width: 100vm
+    heigh: 100vh
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-family: sans-serif;
+}
+
+
+.calculatrice{
+    background-color:
+    display:flex;
+    flex-direction:
+}
+
+ecran{
+    width: 99%
+    height: 99px
+    background-color:
+    marging-button:10px
+    border-radius:5px
+    display: flex;
+    justify-content:flex-end
+}
